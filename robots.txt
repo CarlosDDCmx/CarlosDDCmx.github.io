@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CarlosDDCmx.github.io/sitemap.xml
+Sitemap: https://carlosddcmx.github.io/sitemap.xml
