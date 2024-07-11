@@ -27,7 +27,7 @@ As any field, programming has its own collection of definitions and explanations
 - **Object-Oriented Programming (OOP)**: A programming paradigm that organizes software design around objects, which are instances of classes that encapsulate data and behavior.
 - **Operating System (OS)**: The low-level software that manages a computer's hardware resources and provides a platform for running application software.
 - **Pipeline**: A series of automated steps or stages that transform source code into a deployable software product, often including tasks such as building, testing, and releasing the application.
-- **Programming Languages**: Formal languages used to write computer programs. 
+- **Programming Languages**: Formal languages used to write computer programs.
 - **Recursion**: A programming technique where a function calls itself to solve a problem by breaking it down into smaller, similar instances of the same problem.
 - **Repository**: A central location where code, documentation, or other project-related files are stored and managed, typically using a version control system like Git.
 - **Software Development Lifecycle**: The process of developing, testing, and maintaining software.
